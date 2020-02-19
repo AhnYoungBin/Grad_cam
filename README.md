@@ -20,8 +20,8 @@ Result
 -------
 >HeatMap 출력결과   
 
-<img src="/image/2.JPG" width="80%" height="80%" title="img1" alt="img1"></img>
-<img src="/image/3.JPG" width="80%" height="80%" title="img1" alt="img1"></img>
+<img src="/image/2.JPG" width="80%" height="80%" title="img1" alt="img1"></img>   
+<img src="/image/3.JPG" width="80%" height="80%" title="img1" alt="img1"></img>   
 개 고양이 이진 분류 task에서 실험 결과 대상의 얼굴 중에서도 코를 위주로 개 고양이 판별 하는것으로 보입니다.   
 평탄화 과정에서 GlobalAveragePooling이 아닌 Flatten function을 사용할 경우 code를 조금 수정하여 사용하셔야 됩니다.   
 자세한 내용은 code를 참조 하시길 바랍니다.
