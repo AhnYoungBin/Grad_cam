@@ -12,3 +12,6 @@ Architecture
 
 환경
 -------
+#### Cat vs Dog dataset Download Site : <https://www.kaggle.com/c/dogs-vs-cats/data>
+Cat and Dog Dataset 에서 accuracy 93.83%의 학습된 Resnet Model를 기반으로 Colab 환경에서 제작.    
+자세한 모델 구조는 Code 참고   
